@@ -1,5 +1,11 @@
+import AddUser from "./components/Users/AddUser";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <AddUser />
+    </>
+  );
 }
 
 export default App;
